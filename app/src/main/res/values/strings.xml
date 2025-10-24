@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MFSys BarCode Reader</string>
+    <string name="action_settings">Настройки</string>
+    <string name="no_barcode_captured">Штрихкод не сканирован</string>
+    <string name="barcode_error_format">Ошибочный формат штрихкода</string>
+    <string name="title_activity_login">Авторизация</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="error_field_required">Это обязательное поле</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="ok">OK</string>
+    <string name="signin">Войти</string>
+    <string name="title_activity_search">Поиск</string>
+    <string name="title_activity_loadsettings">Загрузка настроек</string>
+</resources>
